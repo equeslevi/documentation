@@ -83,7 +83,7 @@ This makes sense for parameters like ``cc``, ``to`` or ``attachment``.
                                    ``true`` or ``false``
  o\:tracking-clicks                Toggles clicks tracking on a per-message basis. Has higher
                                    priority than domain-level setting. Pass ``yes``, ``no``,
-                                   ``true``or ``false``.
+                                   ``true`` or ``false``.
  o\:tracking-opens                 Toggles opens tracking on a per-message basis. Has higher
                                    priority than domain-level setting. Pass ``yes`` or ``no``,
                                    ``true`` or ``false``
